@@ -34,8 +34,7 @@ It uses `whatsapp-web.js` to simulate WhatsApp Web locally.
 
   
 
-- 3)set
-- const yourBirthday = "07-23"; // Format: MM-DD
+- 3)set :  const yourBirthday = "07-23"; // Format: MM-DD
 
 
 - 4)run : node birthday-bot.js
