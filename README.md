@@ -30,7 +30,7 @@ It uses `whatsapp-web.js` to simulate WhatsApp Web locally.
 
 - 1)clone repo
 
-- 2)run : npm install  \n npm install whatsapp-web.js qrcode-terminal moment
+- 2)run : i)npm install  ii) npm install whatsapp-web.js qrcode-terminal moment
 
   
 
