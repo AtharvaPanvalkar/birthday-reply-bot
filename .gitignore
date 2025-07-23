@@ -3,6 +3,8 @@ node_modules/
 replied.json
 .wwebjs_auth/
 .wwebjs_auth/*
+.wwebjs_cache/
+.wwebjs_cache/*
 
 # OS-specific
 .DS_Store
