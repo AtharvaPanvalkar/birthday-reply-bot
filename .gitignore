@@ -1,0 +1,9 @@
+# Ignore private data
+node_modules/
+replied.json
+.wwebjs_auth/
+.wwebjs_auth/*
+
+# OS-specific
+.DS_Store
+Thumbs.db
