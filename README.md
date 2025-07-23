@@ -25,14 +25,19 @@ It uses `whatsapp-web.js` to simulate WhatsApp Web locally.
 - [qrcode-terminal](https://www.npmjs.com/package/qrcode-terminal)
 
 ---
-clone repo
 
-run : npm install
+## Steps to follow
+
+1)clone repo
+
+2)run : npm install
 
 
-set
+3)set
 const yourBirthday = "07-23"; // Format: MM-DD
 
 
-node birthday-bot.js
+4)run : node birthday-bot.js
+
+5)login to whatsapp web and Bot will wait fr specific text and replay accordingly
 
